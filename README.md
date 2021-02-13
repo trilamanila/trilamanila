@@ -55,11 +55,11 @@
 ### 📕 100 Days Of Code Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gulp.js Practice](https://trilamanila.com/2019/10/21/gulp-js-practice/)
-- [Back To Node](https://trilamanila.com/2019/10/19/back-to-node/)
-- [Pokedex Project](https://trilamanila.com/2019/10/15/pokedex-project/)
-- [What Is Jquery AJAX](https://trilamanila.com/2019/10/13/what-is-jquery-ajax/)
-- [What is Jquery 2019](https://trilamanila.com/2019/10/12/what-is-jquery-2019/)
+- [#100DaysOfCode Challenge Completed!](https://trilamanila.com/2019/05/01/100daysofcode-challenge-completed/)
+- [How To Test APIs With Postman](https://trilamanila.com/2019/04/28/how-to-test-apis-use-postman/)
+- [Day 98 Lets Build A MEAN Stack App Part 2](https://trilamanila.com/2019/04/27/day-98-lets-build-a-mean-stack-app-part-2/)
+- [Day 97 Lets Build A MEAN Stack App Part 1](https://trilamanila.com/2019/04/25/day-97-lets-build-a-mean-stack-app-part-1/)
+- [Day 96 MEAN Full Stack Review](https://trilamanila.com/2019/04/23/day-96-mean-full-stack-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://trilamanila.com)
