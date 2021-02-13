@@ -52,7 +52,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 100 Days Of Code Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Gulp.js Practice](https://trilamanila.com/2019/10/21/gulp-js-practice/)
@@ -78,7 +78,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.trilamanila.vercel.app/api?username=trilamanila&show_icons=true&hide_border=true" />
+  <img align="left" alt="trilamanila's GitHub Stats" src="https://github-readme-stats.trilamanila.vercel.app/api?username=trilamanila&show_icons=true&hide_border=true" />
 
 </details>
 
