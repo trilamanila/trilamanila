@@ -55,7 +55,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Gulp.js Practice](https://trilamanila.com/2019/10/21/gulp-js-practice/)
+- [Back To Node](https://trilamanila.com/2019/10/19/back-to-node/)
+- [Pokedex Project](https://trilamanila.com/2019/10/15/pokedex-project/)
+- [What Is Jquery AJAX](https://trilamanila.com/2019/10/13/what-is-jquery-ajax/)
+- [What is Jquery 2019](https://trilamanila.com/2019/10/12/what-is-jquery-2019/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://trilamanila.com)
