@@ -64,15 +64,6 @@
 
 ➡️ [more blog posts...](https://trilamanila.com)
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-
-</details>
 
 ---
 
