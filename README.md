@@ -48,7 +48,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/jctrilamanila)
+➡️ [more videos...](https://www.youtube.com/watch?v=bFkBBzctpsU&list=PLXle2vPQwoZHCck4WTh1UOPyG39W5Hw5d)
 
 ---
 
@@ -75,10 +75,12 @@
 
 </details>
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="trilamanila's GitHub Stats" src="https://github-readme-stats.trilamanila.vercel.app/api?username=trilamanila&show_icons=true&hide_border=true" />
+  <img align="left" alt="trilamanila's GitHub Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trilamanila)](https://github.com/trilamanila/github-readme-stats) />
 
 </details>
 
