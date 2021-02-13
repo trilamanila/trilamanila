@@ -46,11 +46,6 @@
 ### 📺 100 Days Of Code YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Day 14 Mid JavaScript Review #100DaysOfCode Challenge](https://www.youtube.com/watch?v=noNR00y8HnE)
-- [Day 13 JavaScript Dates & Math #100DaysOfCode Challenge](https://www.youtube.com/watch?v=IlTFZlF_JKw)
-- [Day 12 JavaScript Data Types #100DaysOfCode Challenge](https://www.youtube.com/watch?v=Hlfuusm1lIA)
-- [Day 11 Javascript Basics #100DaysOfCode](https://www.youtube.com/watch?v=0GTA_YWmcYI)
-- [Day 10 First Portfolio #100DaysOfCode](https://www.youtube.com/watch?v=ar_baJY1v_I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/watch?v=bFkBBzctpsU&list=PLXle2vPQwoZHCck4WTh1UOPyG39W5Hw5d)
@@ -76,7 +71,6 @@
   
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 </details>
 
@@ -85,7 +79,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="trilamanila's GitHub Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trilamanila)](https://github.com/trilamanila/github-readme-stats) />
+  <img align="left" alt="trilamanila's GitHub Stats" src="https://github-readme-stats.trilamanila.vercel.app/api?username=trilamanila&show_icons=true&hide_border=true" />
 
 </details>
 
