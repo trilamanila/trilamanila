@@ -1,16 +1,15 @@
 ### Hi there, I'm Joncin - aka [trilamanila][website] 👋
 
 [![Website](https://img.shields.io/website?label=trilamanila.com&style=for-the-badge&url=https%3A%2F%2Ftrilamanila.com)](https://trilamanila.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/trilamanila?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftrilamanila&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/trilamanila?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoncin.picol&screen_name=trilamanila)
 
 ## I'm a Father, Developer, and Teacher!!
 
-- 🔭 I just launched 100 Days of Code Blog & Vlog
-- 🌱 I’m currently learning everything as someone highly teachable 
+- 🔭 I Blogged and Vlogged my first 100 Days of Code
+- 🌱 I’m currently learning life
 - 👯 I’m looking to network with other developers
-- 🥅 2021 Goals: Make more commits 
-- ⚡ Fun fact: I love to Bitcoin
-
+- 🥅 2021 Goals: Make more commits
+- ⚡ Fun fact: I love Bitcoin
 
 ### Connect with me:
 
@@ -55,15 +54,15 @@
 ### 📕 100 Days Of Code Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [#100DaysOfCode Challenge Completed!](https://trilamanila.com/2019/05/01/100daysofcode-challenge-completed/)
 - [How To Test APIs With Postman](https://trilamanila.com/2019/04/28/how-to-test-apis-use-postman/)
 - [Day 98 Lets Build A MEAN Stack App Part 2](https://trilamanila.com/2019/04/27/day-98-lets-build-a-mean-stack-app-part-2/)
 - [Day 97 Lets Build A MEAN Stack App Part 1](https://trilamanila.com/2019/04/25/day-97-lets-build-a-mean-stack-app-part-1/)
 - [Day 96 MEAN Full Stack Review](https://trilamanila.com/2019/04/23/day-96-mean-full-stack-review/)
-<!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://trilamanila.com)
-
 
 ---
 
@@ -75,9 +74,7 @@
 </details>
 
 [website]: https://trilamanila.com
-[twitter]: https://twitter.com/trilamanila
+[twitter]: https://twitter.com/joncin.picol
 [youtube]: https://youtube.com/jctrilamanila
-[instagram]: https://instagram.com/trilamanila
 [linkedin]: https://linkedin.com/in/trilamanila
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLXle2vPQwoZHCck4WTh1UOPyG39W5Hw5d
-
