@@ -56,13 +56,12 @@
 ### 📕 100 Days Of Code Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [#100DaysOfCode Challenge Completed!](https://trilamanila.com/2019/05/01/100daysofcode-challenge-completed/)
 - [How To Test APIs With Postman](https://trilamanila.com/2019/04/28/how-to-test-apis-use-postman/)
 - [Day 98 Lets Build A MEAN Stack App Part 2](https://trilamanila.com/2019/04/27/day-98-lets-build-a-mean-stack-app-part-2/)
 - [Day 97 Lets Build A MEAN Stack App Part 1](https://trilamanila.com/2019/04/25/day-97-lets-build-a-mean-stack-app-part-1/)
 - [Day 96 MEAN Full Stack Review](https://trilamanila.com/2019/04/23/day-96-mean-full-stack-review/)
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://trilamanila.com)
 
