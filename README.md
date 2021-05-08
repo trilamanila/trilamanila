@@ -1,9 +1,9 @@
 ### Hi there, I'm Joncin - aka [trilamanila][website] 👋
 
 [![Website](https://img.shields.io/website?label=trilamanila.com&style=for-the-badge&url=https%3A%2F%2Ftrilamanila.com)](https://trilamanila.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/trilamanila?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoncin.picol&screen_name=trilamanila)
+[![Twitter Follow](https://img.shields.io/twitter/follow/trilamanila?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TrillArashi&screen_name=trillarashi)
 
-## I'm a Father, Developer, and Teacher!!
+## I'm a Father, Developer, and a Bitcoiner!!
 
 - 🔭 I Blogged and Vlogged my first 100 Days of Code
 - 🌱 I’m currently learning life
@@ -17,7 +17,6 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -30,9 +29,6 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
@@ -45,12 +41,13 @@
 ### 📺 100 Days Of Code YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Day 14 Mid JavaScript Review #100DaysOfCode Challenge](https://www.youtube.com/watch?v=noNR00y8HnE)
 - [Day 13 JavaScript Dates & Math #100DaysOfCode Challenge](https://www.youtube.com/watch?v=IlTFZlF_JKw)
 - [Day 12 JavaScript Data Types #100DaysOfCode Challenge](https://www.youtube.com/watch?v=Hlfuusm1lIA)
 - [Day 11 Javascript Basics #100DaysOfCode](https://www.youtube.com/watch?v=0GTA_YWmcYI)
 - [Day 10 First Portfolio #100DaysOfCode](https://www.youtube.com/watch?v=ar_baJY1v_I)
-<!-- YOUTUBE:END -->
+  <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/watch?v=bFkBBzctpsU&list=PLXle2vPQwoZHCck4WTh1UOPyG39W5Hw5d)
 
@@ -79,7 +76,7 @@
 </details>
 
 [website]: https://trilamanila.com
-[twitter]: https://twitter.com/joncin.picol
+[twitter]: https://twitter.com/trillarashi
 [youtube]: https://youtube.com/jctrilamanila
-[linkedin]: https://linkedin.com/in/trilamanila
+[linkedin]: https://www.linkedin.com/in/joncin-picol-922a96184/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLXle2vPQwoZHCck4WTh1UOPyG39W5Hw5d
