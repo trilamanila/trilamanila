@@ -42,7 +42,7 @@
 
 <!-- YOUTUBE:START -->
 - [Day 14 Mid JavaScript Review #100DaysOfCode Challenge](https://www.youtube.com/watch?v=noNR00y8HnE)
-- [Day 13 JavaScript Dates & Math #100DaysOfCode Challenge](https://www.youtube.com/watch?v=IlTFZlF_JKw)
+- [Day 13 JavaScript Dates &amp; Math #100DaysOfCode Challenge](https://www.youtube.com/watch?v=IlTFZlF_JKw)
 - [Day 12 JavaScript Data Types #100DaysOfCode Challenge](https://www.youtube.com/watch?v=Hlfuusm1lIA)
 - [Day 11 Javascript Basics #100DaysOfCode](https://www.youtube.com/watch?v=0GTA_YWmcYI)
 - [Day 10 First Portfolio #100DaysOfCode](https://www.youtube.com/watch?v=ar_baJY1v_I)
