@@ -1,6 +1,6 @@
 ### Hi there, I'm Joncin - aka [trilamanila][website] 👋
 
-[![Website](https://img.shields.io/website?label=trilamanila.com&style=for-the-badge&url=https%3A%2F%2Ftrilamanila.com)](https://trilamanila.com)
+[![Website](https://img.shields.io/website?label=joncinpicol.com&style=for-the-badge&url=https%3A%2F%2Fjoncinpicol.com)](https://joncinpicol.com)
 
 
 ## I'm a Father, Developer, and a Bitcoiner!!
@@ -8,7 +8,7 @@
 - 🔭 I Blogged and Vlogged my first 100 Days of Code
 - 🌱 I’m currently learning life
 - 👯 I’m looking to network with other developers
-- 🥅 2021 Goals: Make more commits
+- 🥅 2022 Goals: Make more commits
 - ⚡ Fun fact: I love Bitcoin
 
 ### Connect with me:
