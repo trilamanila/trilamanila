@@ -1,7 +1,7 @@
 ### Hi there, I'm Joncin - aka [trilamanila][website] 👋
 
 [![Website](https://img.shields.io/website?label=trilamanila.com&style=for-the-badge&url=https%3A%2F%2Ftrilamanila.com)](https://trilamanila.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/trilamanila?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TrillArashi&screen_name=trillarashi)
+
 
 ## I'm a Father, Developer, and a Bitcoiner!!
 
