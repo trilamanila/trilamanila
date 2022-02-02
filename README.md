@@ -38,7 +38,7 @@
 
 ---
 
-### 📺 100 Days Of Code YouTube Videos
+### 📺 2018 100 Days Of Code YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Day 14 Mid JavaScript Review #100DaysOfCode Challenge](https://www.youtube.com/watch?v=noNR00y8HnE)
@@ -52,7 +52,7 @@
 
 ---
 
-### 📕 100 Days Of Code Blog Posts
+### 📕 2018 100 Days Of Code Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [#100DaysOfCode Challenge Completed!](https://trilamanila.com/2019/05/01/100daysofcode-challenge-completed/)
