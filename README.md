@@ -1,6 +1,4 @@
-### Hi there, I'm Joncin - aka [trilamanila][website] 👋
-
-[![Website](https://img.shields.io/website?label=joncinpicol.com&style=for-the-badge&url=https%3A%2F%2Fjoncinpicol.com)](https://joncinpicol.com)
+### Hi there, I'm Joncin
 
 
 ## I'm a Father, Developer, and a Bitcoiner!!
